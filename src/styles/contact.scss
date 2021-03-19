@@ -48,10 +48,11 @@
 
   &__button {
     margin-left: -20px;
-    height: $button-height;
-    width: $button-width;
+    padding: 15px 30px;
     line-height: 23.44px;
-
+    
+    font-size: 0.6rem;
+    text-decoration: none;
     color: #62d0df;
     background-color: transparent;
     border: transparent;
