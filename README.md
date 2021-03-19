@@ -1,4 +1,4 @@
-- [Figma design](https://www.figma.com/file/aHd2rHMrnzDXhowLuIQjIyVQ/ThriveTalk-Landing-Page?node-id=0%3A1)
+- [Figma design](https://misha-lysak.github.io/THRIVE-TALK/)
 - [DEMO](https://misha-lysak.github.io/ThriveTalk/)
 
 made landing page using HTML5, BEM, SCSS.
